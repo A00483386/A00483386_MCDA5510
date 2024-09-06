@@ -1,16 +1,15 @@
-## Hi there 👋
+# **Project Samir** ![with-coffee](https://img.shields.io/badge/powered%20by-%E2%98%95%EF%B8%8F%20coffee-orange.svg)
+***
 
-<!--
-**A00483386/A00483386** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Origin
+Project Samir was initialized back in 2001 by two developers from Delhi, India. Its first commit was on the 22nd of March, with a commit message "WAA!". Since then, it has gone through several development stages, with its most recent standalone release being v23.0.0. 
 
-Here are some ideas to get you started:
+## Features
+- Can be compiled on Python, C++, C#, Java and other similar languages.
+- Compatible with games like the Dark Souls series, the Zelda series, Cyberpunk 2077, etc.
+- Can tokenize English, Hindi, French and Japanese
+- Enjoys physical activities.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Roadmap
+The current aim of Project Samir is to expand its database by accessing resources from incredible sources like Saint Mary's University, especially regarding topics related to artificial general intelligence, API development, robotics and neuroscience. 
